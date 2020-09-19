@@ -24,6 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+[Join Video Chat] (https://meet.jit.si/mybinder.org-d17951a4663c6c4c0dc8374db2492bc4#config.startWithVideoMuted=true&config.startWithAudioMuted=true&config.prejoinPageEnabled=true)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
